@@ -4,3 +4,9 @@ g470_config：
     是联想G470笔记本（我这个版本的G470显卡只有独立显卡6370m）对应的内核配置文件，除了键盘上的Fn组合按键之外，其它硬件都没问题。
     所对应的内核是gentoo源里面的gentoo-sources，然后在http://users.on.net/~ckolivas/kernel/ 下载并打上了ck的补丁～
     该显卡的驱动需要一些固件，需要先安装linux-firmware或者radeon-ucode。
+
+portage-xxxx.tar.gz ：portage的配置文件
+
+moc_config:moc的配置文件
+
+vimrc ：vim的配置文件
