@@ -10,3 +10,5 @@ portage-xxxx.tar.gz ：portage的配置文件
 moc_config:moc的配置文件
 
 vimrc ：vim的配置文件
+
+这些主要是作为备份使用
