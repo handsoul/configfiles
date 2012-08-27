@@ -1,0 +1,2 @@
+>=net-misc/iptux-0.5.3
+>media-libs/freeglut-2.6.0

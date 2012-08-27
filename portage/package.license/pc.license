@@ -1,0 +1,9 @@
+#required by adobe-flash (argument)
+>=www-plugins/adobe-flash-11.2.202.236 AdobeFlash-10.3
+www-client/google-chrome google-chrome 
+app-emulation/virtualbox PUEL
+=app-emulation/virtualbox-additions-4.1.12 PUEL
+#required by sun-jdk (argument)
+>=dev-java/sun-jdk-1.6.0.33-r1 Oracle-BCLA-JavaSE
+app-emulation/virtualbox-extpack-oracle PUEL
+app-emulation/virtualbox-additions PUEL

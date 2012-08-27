@@ -1,0 +1,5 @@
+#required by dev-libs/weston-9999[clients], required by weston (argument)
+# /var/lib/layman/x11/profiles/package.mask:
+# Don't let people install these accidentally
+=x11-libs/libxkbcommon-9999
+=media-libs/freeglut-2.8.0-r1
