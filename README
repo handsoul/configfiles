@@ -5,7 +5,9 @@ g470_config：
     所对应的内核是gentoo源里面的gentoo-sources，然后在http://users.on.net/~ckolivas/kernel/ 下载并打上了ck的补丁～
     该显卡的驱动需要一些固件，需要先安装linux-firmware或者radeon-ucode。
 
-portage-xxxx.tar.gz ：portage的配置文件
+portage-xxxx.tar.gz ：portage的配置文件，使用~amd64的kdebase-meta
+
+config_virtualbox ：在virtualbox中安装gentoo的内核配置文件
 
 moc_config:moc的配置文件
 
